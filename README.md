@@ -1,6 +1,7 @@
 # literacy
 # https://ikri-chibakoudai.github.io/literacy/
 # https://ikri-chibakoudai.github.com/literacy/bunkasai.html
+# https://ikri-chibakoudai.github.io/literacy/list.html
 # https://ikri-chibakoudai.github.io/literacy/link.html
 # https://ikri-chibakoudai.github.io/literacy/photo.html
 # https://ikri-chibakoudai.github.com/literacy/table.html
